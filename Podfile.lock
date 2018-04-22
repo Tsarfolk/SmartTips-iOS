@@ -1,0 +1,77 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Cosmos (15.0.0)
+  - HEREMapsStarter (3.7.0)
+  - Moya (11.0.2):
+    - Moya/Core (= 11.0.2)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (11.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Nuke (6.1.1)
+  - Result (3.2.4)
+  - Reusable (4.0.2):
+    - Reusable/Storyboard (= 4.0.2)
+    - Reusable/View (= 4.0.2)
+  - Reusable/Storyboard (4.0.2)
+  - Reusable/View (4.0.2)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxGesture (1.2.1):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SnapKit (4.0.0)
+  - SwiftyBeaver (1.5.2)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 15.0)
+  - HEREMapsStarter
+  - Moya
+  - Moya/RxSwift
+  - Nuke
+  - Reusable
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SnapKit
+  - SwiftyBeaver
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Cosmos
+    - HEREMapsStarter
+    - Moya
+    - Nuke
+    - Result
+    - Reusable
+    - RxCocoa
+    - RxGesture
+    - RxSwift
+    - SnapKit
+    - SwiftyBeaver
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  HEREMapsStarter: c965bb891705b2407d7b140dfbfc2fc4c72acea3
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  Nuke: bf5d58b2d95ff15cb170c231fe6002d706be77e1
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  Reusable: 584a5629747c52e0f6a77841b400dc2643f6fa0f
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxGesture: c278eb05b187abd47e11e65464ae4de53ab71d95
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyBeaver: 85daaaa2b3ae6e31b7b55c99430e8b91dac088af
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 0112258e39dc2688cae17c77870791806b841507
+
+COCOAPODS: 1.5.0
